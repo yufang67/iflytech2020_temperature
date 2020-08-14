@@ -1,0 +1,8 @@
+{
+    "git.ignoreLimitWarning": true,
+    "python.pythonPath": "D:\\Program Files\\conda\\envs\\tensor_flow\\python.exe",
+    "python.testing.promptToConfigure": false,
+    "python.testing.pytestEnabled": false,
+    "python.testing.unittestEnabled": false,
+    "python.testing.nosetestsEnabled": false
+}
